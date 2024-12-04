@@ -41,6 +41,8 @@ This project is a clone of the Netflix video streaming service, designed and imp
 ## 📦 Infrastructure as Code
 __Terraform is used to provision and manage cloud resources:__
 
+*You can find the terraform files under **"infrastructure"** folder.*
+
 1. VPC Configuration
 2. EC2 Instances
 3. RDS Databases
